@@ -1,0 +1,49 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  background-color: #f4d9f4;
+}
+
+.App h1 {
+  font-size: 36px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.App .month-dropdown {
+  margin-bottom: 20px;
+}
+
+.App .month-dropdown select {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.App .statistics, .App .bar-chart, .App .pie-chart {
+  margin-top: 20px;
+}
+
+.App .statistics h3,
+.App .bar-chart h2,
+.App .pie-chart h2 {
+  font-size: 24px;
+  color: #333;
+}
+
+.App .statistics p,
+.App .bar-chart div,
+.App .pie-chart div {
+  font-size: 18px;
+  color: #555;
+}
+.heading{
+  max-width: 300px;
+  padding: 40px 10px;
+  background-color: rgb(146, 178, 240);
+  border-radius: 50%;
+  margin: auto;
+}
+

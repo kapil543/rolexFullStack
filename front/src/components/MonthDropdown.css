@@ -1,0 +1,22 @@
+.month-dropdown {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+
+}
+
+.month-dropdown select {
+  padding: 44px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #bbc7da;
+  transition: border-color 0.3s ease;
+}
+
+.month-dropdown select:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+  
